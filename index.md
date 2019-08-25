@@ -1,7 +1,7 @@
 ---
 title: Home
 header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
+  Welcome to Bela's Website
   aenean auctor at Dictum.
 menus:
   main:
